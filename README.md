@@ -113,7 +113,5 @@ Covers crop, district, and state-level statistics.
 | Documentation | Markdown (.md), PDF |
 | Analysis | Jupyter / VSCode |
 
-![image alt]([AgriData-Explorer-Understanding-Indian-agriculture-with-EDA/blob/main/WhatsApp%20Image%202025-10-20%20at%207.18.27%20AM%20(1).jpeg?raw=true](https://github.com/kalpanamanohar/AgriData-Explorer-Understanding-Indian-agriculture-with-EDA/blob/db4061cb579be9329381f01fc8b49dc4f833f4cc/WhatsApp%20Image%202025-10-20%20at%207.18.27%20AM%20(1).jpeg))
-![image alt](https://github.com/kalpanamanohar/AgriData-Explorer-Understanding-Indian-agriculture-with-EDA/blob/main/WhatsApp%20Image%202025-10-20%20at%207.18.28%20AM%20(1).jpeg?raw=true)
-![image alt]([AgriData-Explorer-Understanding-Indian-agriculture-with-EDA/blob/main/WhatsApp%20Image%202025-10-20%20at%207.18.28%20AM.jpeg?raw=true](https://github.com/kalpanamanohar/AgriData-Explorer-Understanding-Indian-agriculture-with-EDA/blob/db4061cb579be9329381f01fc8b49dc4f833f4cc/WhatsApp%20Image%202025-10-20%20at%207.18.28%20AM.jpeg))
+
 
